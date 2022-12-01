@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    display: block;
+    padding: 20px;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+    height: 100px;
+    width: 100px;
+}
